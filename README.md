@@ -22,8 +22,9 @@ This part of the project includes main tests ie tests for site "www.helloworld.r
 	1.	searchingForJobAdsTest
 	2.	searchingForCompany
 	3.	searchingForArticleInITColumn
-----------------------------------------------------------------------------
+
 1. Test - searchingForJobAdsTest
+----------------------------------------------------------------------------
 The task of this test is to check the main function of the site ie searching for job ads.
 
 Through this section, users could search for job ads by desirable technologies, cities, and seniority.
@@ -31,8 +32,9 @@ Through this section, users could search for job ads by desirable technologies, 
 The test includes job ads searchability by desired technologies, cities, and/or seniority level for any test case that includes those job ads attributes.
 
 Test for assertation makes a list of ads, and it's moving from ad to ad and checks tags and location, mentioned in the ad, for desirable job attributes.
-----------------------------------------------------------------------------
+
 2. Test - searchingForCompany
+----------------------------------------------------------------------------
 The task of this test is to check the company search on the site section "IT Insajder".
 
 Through this section, companies can be searchable by company name and company city.
@@ -45,8 +47,9 @@ Note: There are two types of company pages. First, normal, made as profile page 
 If on other hand, you insert the city for searching, the test will execute search companies by the city as he'll search companies by their location, it will select some random company from the results of a search, enter on her profile page, and check her location. 
 
 Note: The location of the company could be on multiple places and sections of the company page.
-----------------------------------------------------------------------------
+
 3. Test - searchingForArticleInITColumn
+----------------------------------------------------------------------------
 The task of this test is to check the article search on the site section "IT Kolumna".
 
 Through this section, visitors could search for articles, that are published by the site, about events in IT society.
