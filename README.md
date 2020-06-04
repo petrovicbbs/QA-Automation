@@ -4,6 +4,7 @@
 Automation tests for a site for IT job ads, IT columns and IT companies - "https://www.helloworld.rs/" and tests fo Log In on-site - "https://www.winwin.rs/"
 
 The project contains 2 parts:
+
 	I Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
 	II Test of site's 3 functionality of the site - "https://www.helloworld.rs/"
   
@@ -12,6 +13,7 @@ The project contains 2 parts:
 ▓I 	Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
 
 This part of the project contains:
+
 	1) Positive Log In test on-site - "https://www.winwin.rs/"
 	2) Negative Log In test on-site - "https://www.winwin.rs/"
 
