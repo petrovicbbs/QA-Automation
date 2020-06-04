@@ -4,8 +4,8 @@
 Automation tests for a site for IT job ads, IT columns and IT companies - "https://www.helloworld.rs/" and tests fo Log In on-site - "https://www.winwin.rs/"
 
 The project contains 2 parts:
-	I 	Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
-	II	Test of site's 3 functionality of the site - "https://www.helloworld.rs/"
+	I Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
+	II Test of site's 3 functionality of the site - "https://www.helloworld.rs/"
   
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
