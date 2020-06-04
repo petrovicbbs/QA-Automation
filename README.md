@@ -16,6 +16,7 @@ This part of the project contains:
 	2) Negative Log In test on-site - "https://www.winwin.rs/"
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
 ▓II	  Test of site's 3 functionality - Search for job ads, search for the company, and search for the IT news and articles
 
 This part of the project includes main tests ie tests for site "www.helloworld.rs":
