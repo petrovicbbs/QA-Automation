@@ -2,29 +2,30 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 Automation tests for a site for IT job ads, IT columns and IT companies - "https://www.helloworld.rs/" and tests fo Log In on-site - "https://www.winwin.rs/"
-----------------------------------------------------------------------------
+
 The project contains 2 parts:
 	I 	Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
 	II	Test of site's 3 functionality of the site - "https://www.helloworld.rs/"
   
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 ▓I 	Positive/Negative Log In tests on-site - "https://www.winwin.rs/"
-----------------------------------------------------------------------------
+
 This part of the project contains:
 	1) Positive Log In test on-site - "https://www.winwin.rs/"
 	2) Negative Log In test on-site - "https://www.winwin.rs/"
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓II	  Test of site's 3 functionality - Search for job ads, search for the company, and search for the IT news and articles
-----------------------------------------------------------------------------
+
 This part of the project includes main tests ie tests for site "www.helloworld.rs":
-	1.	searchingForJobAdsTest
-	2.	searchingForCompany
-	3.	searchingForArticleInITColumn
+
+	1. searchingForJobAdsTest
+	2. searchingForCompany
+	3. searchingForArticleInITColumn
 
 1. Test - searchingForJobAdsTest
-----------------------------------------------------------------------------
+
 The task of this test is to check the main function of the site ie searching for job ads.
 
 Through this section, users could search for job ads by desirable technologies, cities, and seniority.
@@ -34,7 +35,7 @@ The test includes job ads searchability by desired technologies, cities, and/or 
 Test for assertation makes a list of ads, and it's moving from ad to ad and checks tags and location, mentioned in the ad, for desirable job attributes.
 
 2. Test - searchingForCompany
-----------------------------------------------------------------------------
+
 The task of this test is to check the company search on the site section "IT Insajder".
 
 Through this section, companies can be searchable by company name and company city.
@@ -49,7 +50,7 @@ If on other hand, you insert the city for searching, the test will execute searc
 Note: The location of the company could be on multiple places and sections of the company page.
 
 3. Test - searchingForArticleInITColumn
-----------------------------------------------------------------------------
+
 The task of this test is to check the article search on the site section "IT Kolumna".
 
 Through this section, visitors could search for articles, that are published by the site, about events in IT society.
